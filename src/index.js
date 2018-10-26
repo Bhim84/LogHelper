@@ -1,6 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
+import RouterDemo from "./router-demo";
+
 import "./styles.css";
 
 function App() {
@@ -13,4 +15,4 @@ function App() {
 }
 
 const rootElement = document.getElementById("root");
-ReactDOM.render(<App />, rootElement);
+ReactDOM.render(<RouterDemo />, rootElement);
