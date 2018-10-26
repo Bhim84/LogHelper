@@ -1,2 +1,0 @@
-# LogHelper
-Created with CodeSandbox
